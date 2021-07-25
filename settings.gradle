@@ -1,0 +1,2 @@
+rootProject.name = "zomato app"
+include ':app'
